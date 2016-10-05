@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "http://ec2-54-161-233-137.compute-1.amazonaws.com:1337/parse",
+    "serverURL": "http://ec2-52-34-225-91.us-west-2.compute.amazonaws.com/parse",
     "appId": "mPyeByykpRn5LkfQAwrZCvTR38SwqsG7KLHVCykM",
     "masterKey": "mURND1KM48hBqPnF73ktYqlgXjU0ObcnfHnDVLyp",
-    "appName": "App",
+    "appName": "App_RawDev",
     "iconName": ""
   }],
  "users": [
